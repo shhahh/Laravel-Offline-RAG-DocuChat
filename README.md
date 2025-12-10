@@ -1,3 +1,38 @@
+Business Source License 1.1 (BUSL-1.1)
+
+Licensor: Shah Alam Raza
+Project: DocuChat - Secure Offline Document Analysis System
+License Date: 2025-12-10
+Change Date: 2029-01-01
+Change License: GNU General Public License v2.0 or later (GPL)
+
+---------------------------------------------------------------------
+
+Usage Permissions (Allowed):
+- View the source code for learning and evaluation.
+- Run the project locally for personal and non-commercial use.
+
+Restrictions (Not Allowed):
+- Commercial use of this software in any form.
+- Modifying, redistributing, sublicensing, or publishing any part of the code.
+- Using the code to build or sell competing software or AI products.
+- Hosting this software publicly as a service.
+
+After the Change Date:
+This license automatically converts to GPL, allowing open-source usage.
+
+---------------------------------------------------------------------
+
+Warranty Disclaimer:
+This software is provided “as-is” without any warranties or guarantees.  
+The licensor is not responsible for any damages arising from use.
+
+© 2025 Shah. All Rights Reserved.
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
