@@ -1,3 +1,5 @@
+http://127.0.0.1:8000/docu-chat
+
 Business Source License 1.1 (BUSL-1.1)
 
 Licensor: Shah Alam Raza
