@@ -1,5 +1,12 @@
 http://127.0.0.1:8000/docu-chat
 
+MAKE SURE
+1.First, install Phi-3.5 Local on your computer
+2.Open terminal or command prompt
+3.Type: foundry service start
+4.Press Enter
+That's it! 
+
 Business Source License 1.1 (BUSL-1.1)
 
 Licensor: Shah Alam Raza
